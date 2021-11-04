@@ -11,7 +11,6 @@
 ---
 3. Lastly, the maximum temperature for the month of June is 85 degrees and the maximum temperature for the month of December is 83 degrees. Therefore, even in the Winter month of December, it is still possible for temperatures in Oahu to reach almost that of the maximum temperature found from the June data. 
 ---
----
 ## Summary 
 - From a high-level, these results indicate that Oahu is an attractive destination to start a surf shop because the weather does not seem to be very volatile as seen from the quartiles, maxs., mins., and means shown in the summary statistics above.
 ### Additional Query #1
