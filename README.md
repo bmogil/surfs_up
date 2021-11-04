@@ -1,8 +1,7 @@
-# Surf's Up Statistical Analysis
----
+#Surf's Up Statistical Analysis
 ---
 ## Analysis Overview
-The purpose of this analysis was to identify any significant weather trends in Oahu in the months of June and December that would identify any underlying implications as to whether or not Oahu is the optimal place for W. Avy to invest in a surf shop there. 
+The purpose of this analysis was to identify any significant weather trends in Oahu in the months of June and December that would identify any underlying implications as to whether or not Oahu is the optimal place for W. Avy to invest in a surf shop there.
 ---
 ## Results
 1. As displayed below, the summary statistics for the month of December show the mean temperature to be ~71 degrees. Meanwhile, the mean temperature for the month of June is ~75. 
